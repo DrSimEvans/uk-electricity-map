@@ -10,3 +10,5 @@ Each of the following sources are processed and the output combined with the UK-
 4. BEIS CHP database
 5. RenewableUK Project Intelligence storage database
 6. Capacity Market register
+
+More info on each source is in the UK-map-combined notebook.
